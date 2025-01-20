@@ -11,7 +11,7 @@
       "t2": "Ready to",
       "t3": "Wow"
     },
-    "description": "Something Big is Coming. Stay in the L{{loopImage}}p.",
+    "description": "Something Big is Coming. Stay in the <p class='image-wrapper'>L{{loopImage}}p.</p>",
     "images": {
       "loopImage": "/assets/loop.png"
     },

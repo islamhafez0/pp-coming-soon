@@ -11,7 +11,7 @@
       "t2": "مستعدًا",
       "t3": "لتندهش!"
     },
-    "description": "هناك شئ مذهل قادم. ابق {{loopImage}}ـنا.",
+    "description": "هناك شئ مذهل قادم.<br /> ابق <p class='image-wrapper'>{{loopImage}} ـنا.</p>",
     "images": {
       "loopImage": "/assets/Subtract.png"
     },
