@@ -366,7 +366,7 @@ br {
     max-width: 65%;
   }
   [dir="rtl"] .hero .col-1 p.description {
-    max-width: 60%;
+    max-width: 70%;
   }
   .hero .col-1 p.description {
     font-size: 18px;
