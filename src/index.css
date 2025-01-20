@@ -365,7 +365,7 @@ br {
   [dir="rtl"] .hero .col-1 p.description {
     max-width: 65%;
   }
-  [dir="rtl"] .hero .col-1 p.description {
+  [dir="ltr"] .hero .col-1 p.description {
     max-width: 70%;
   }
   .hero .col-1 p.description {
