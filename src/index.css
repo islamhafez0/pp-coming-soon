@@ -369,6 +369,10 @@ textarea {
       padding: 0 17px;
     }
   }
+  .hero .col-1 form.form input[type="email"] {
+    flex: unset;
+    max-width: 190px;
+  }
   .hero .col-2 {
     width: 100%;
   }
