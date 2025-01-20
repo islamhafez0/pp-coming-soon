@@ -362,10 +362,15 @@ br {
   [dir="rtl"] .hero .col-1 h1 {
     line-height: 48px;
   }
+  [dir="rtl"] .hero .col-1 p.description {
+    max-width: 65%;
+  }
+  [dir="rtl"] .hero .col-1 p.description {
+    max-width: 75%;
+  }
   .hero .col-1 p.description {
     font-size: 18px;
     line-height: 20.09px;
-    max-width: 65%;
     margin: 24px auto 0;
     text-align: center;
     img {
