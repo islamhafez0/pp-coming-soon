@@ -1,0 +1,33 @@
+{
+  "documentTitle": "Pearl Pixels - Your Future-Ready Digital Marketing Agency is coming!",
+  "documentDescription": "Explore the future of digital marketing and be ready to drive success through innovative solutions with Pearl Pixels… Stay Tuned!",
+  "header": {
+    "button_contact": "Contact Us",
+    "currentLanguageSwitcher": "English"
+  },
+  "hero": {
+    "heroTitle": {
+      "t1": "Get",
+      "t2": "Ready to",
+      "t3": "Wow"
+    },
+    "description": "Something Big is Coming. Stay in the L{{loopImage}}p.",
+    "images": {
+      "loopImage": "/assets/loop.png"
+    },
+    "input": "Your e-mail address",
+    "button": "Subscribe",
+    "toast_title": "Welcome to Pearl Pixels! 🎉",
+    "toast_describbtion": "Thank you for joining us! You’ll now receive exclusive offers, updates, and news from Pearl Pixels straight to your inbox."
+  },
+  "contact": {
+    "title": "Almost Time for Take-off!",
+    "subtitle": "The Future of Marketing is Almost Here.",
+    "form": {
+      "input_name_placeholder": "Enter your name",
+      "input_email_placeholder": "Enter your email address",
+      "textarea_placeholder": "Go ahead, We are waiting your message...",
+      "button_submit": "Send"
+    }
+  }
+}
